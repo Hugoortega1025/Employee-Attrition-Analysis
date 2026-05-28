@@ -170,7 +170,7 @@ Manager stability compounds this further. Employees with less than one year unde
 
 The three drivers above are not independent. When they combine, the risk is not additive — it compounds.
 
-![Tenure × OT Compound Chart](images/tenure_x_ot.png)
+![Tenure × OT Compound Chart](images/tenure_x_overtime.png)
 
 | Segment | Attrition Rate | Share of Departures | n |
 |---------|----------------|---------------------|---|
