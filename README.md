@@ -47,7 +47,7 @@ Cardiology loses staff at nearly double the rate of Neurology. The gap is not ex
 
 Before looking at drivers, the baseline picture is important.
 
-<!-- ![Age Distribution Chart](images/age_attrition.png) -->
+![Age Distribution Chart](images/age_attrition.png)
 
 | Age Band | Attrition Rate | Share of All Departures |
 |----------|----------------|-------------------------|
@@ -75,7 +75,7 @@ The income gap between leavers and stayers is one of the clearest signals in the
 - **Median monthly income, stayers: $5,204**
 - That is a 90% gap — not a rounding error.
 
-<!-- ![Salary Band Attrition Chart](images/salary_attrition.png) -->
+![Salary Band Attrition Chart](images/salary_attrition.png)
 
 | Salary Band | Monthly Income | Attrition Rate |
 |-------------|----------------|----------------|
@@ -101,7 +101,7 @@ Job level mirrors the same pattern with no exception:
 
 Overtime is the highest-impact binary variable in this analysis. No single factor produces a wider attrition gap.
 
-<!-- ![Overtime Attrition Chart](images/overtime_attrition.png) -->
+![Overtime Attrition Chart](images/overtime_attrition.png)
 
 | Overtime Status | Attrition Rate | Share of All Departures | % of Workforce |
 |----------------|----------------|-------------------------|----------------|
@@ -112,7 +112,7 @@ Overtime workers are **28% of the workforce but 70% of everyone who leaves**. Th
 
 Work-life balance was also examined. Employees rated "Drained" (level 1) leave at 27%, but the volume finding matters most: **65% of all departures come from overtime workers who are not even flagged as burned out**. The risk is not limited to extreme cases.
 
-<!-- ![OT × WLB Chart](images/ot_x_wlb.png) -->
+![OT × WLB Chart](images/ot_x_wlb.png)
 
 | Segment | Attrition Rate | Share of Departures |
 |---------|----------------|---------------------|
@@ -139,7 +139,7 @@ Three secondary factors add texture but are not primary drivers:
 
 ### Career Progression — Stagnation Sets In Earlier Than Expected
 
-<!-- ![Tenure Attrition Chart](images/tenure_attrition.png) -->
+![Tenure Attrition Chart](images/tenure_attrition.png)
 
 | Tenure Band | Attrition Rate |
 |-------------|----------------|
@@ -170,7 +170,7 @@ Manager stability compounds this further. Employees with less than one year unde
 
 The three drivers above are not independent. When they combine, the risk is not additive — it compounds.
 
-<!-- ![Tenure × OT Compound Chart](images/tenure_x_ot.png) -->
+![Tenure × OT Compound Chart](images/tenure_x_ot.png)
 
 | Segment | Attrition Rate | Share of Departures | n |
 |---------|----------------|---------------------|---|
@@ -269,7 +269,7 @@ The data makes the cost of inaction clear. The profile of who is leaving is spec
 |------|-------------|
 | `healthcare_churn.ipynb` | Full analysis notebook — 6 phases, all findings |
 | `watson_healthcare_modified2.csv` | Source dataset |
-| `watson_attrition_deck.pptx` | Stakeholder slide deck (9 slides) |
+
 
 ## Tools
 
