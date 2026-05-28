@@ -21,8 +21,9 @@ Watson Healthcare lost 199 employees in the measured period — **12% of its 1,6
 
 The analysis surfaces a consistent employee profile behind the departures: **young, underpaid, working overtime, and in their first two years**. When all three conditions are present, attrition hits 55% — nearly five times the company average.
 
-> 📊 **[View the interactive Tableau dashboard →](#)**
-> *(Add your Tableau Public link here)*
+<div class='tableauPlaceholder' id='viz1780009868310' style='position: relative'><noscript><a href='#'><img alt='Attrition Analysis ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Em&#47;EmployeeAttrition_17799308935310&#47;AttritionAnalysis&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EmployeeAttrition_17799308935310&#47;AttritionAnalysis' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Em&#47;EmployeeAttrition_17799308935310&#47;AttritionAnalysis&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>            
+
+> 📊 **[View the interactive Tableau dashboard →](#) https://public.tableau.com/views/EmployeeAttrition_17799308935310/AttritionAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
