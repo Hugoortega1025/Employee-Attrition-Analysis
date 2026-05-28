@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="watson_healthcare_logo.png" alt="Watson Healthcare Organization" width="260"/>
+  <img src="images/watson_healthcare_logo.png" alt="Watson Healthcare Organization" width="600"/>
   <br/><br/>
   <h1>Employee Attrition Analysis</h1>
   <p><strong>Watson Healthcare Organization &nbsp;|&nbsp; 1,676 Employees &nbsp;|&nbsp; Three Departments</strong></p>
@@ -38,7 +38,7 @@ Watson's 12% attrition rate is not evenly distributed. It is concentrated in spe
 
 Cardiology loses staff at nearly double the rate of Neurology. The gap is not explained by pay or seniority alone — it is compounded by shift design and workload distribution. Nurses, the largest role group at 822 employees, account for **54% of all departures** at a 13% rate.
 
-> **Business implication:** The cost of doing nothing is not 12% — it is Cardiology cycling through a portion of its clinical workforce every few years. That has a direct impact on patient care continuity.
+- **Business implication:** The cost of doing nothing is not 12% — it is Cardiology cycling through a portion of its clinical workforce every few years. That has a direct impact on patient care continuity.
 
 ---
 
@@ -60,7 +60,7 @@ Before looking at drivers, the baseline picture is important.
 
 Gender showed a small gap (Female 13% vs Male 11%) not large enough to be meaningful. Education level showed no consistent pattern — a Doctor-level employee left at under 2% while other levels clustered between 10–14% with no clear gradient.
 
-> **Business implication:** This is an early-career retention problem. The staff Watson is investing in training and onboarding are the same staff most likely to leave before that investment pays off.
+- **Business implication:** This is an early-career retention problem. The staff Watson is investing in training and onboarding are the same staff most likely to leave before that investment pays off.
 
 ---
 
@@ -111,7 +111,7 @@ Overtime workers are **28% of the workforce but 70% of everyone who leaves**. Th
 
 Work-life balance was also examined. Employees rated "Drained" (level 1) leave at 27%, but the volume finding matters most: **65% of all departures come from overtime workers who are not even flagged as burned out**. The risk is not limited to extreme cases.
 
-<!-- ![OT × WLB Chart](images/ot_wlb_compound.png) -->
+<!-- ![OT × WLB Chart](images/ot_x_wlb.png) -->
 
 | Segment | Attrition Rate | Share of Departures |
 |---------|----------------|---------------------|
@@ -120,7 +120,7 @@ Work-life balance was also examined. Employees rated "Drained" (level 1) leave a
 | OT — Not Drained | **29%** | **65%** |
 | OT — Drained | 42% | 5% |
 
-> **Business implication:** The 452 overtime workers who are not flagged as drained still leave at 29%. Waiting for visible burnout to intervene is too late. Overtime exposure alone is the trigger.
+- **Business implication:** The 452 overtime workers who are not flagged as drained still leave at 29%. Waiting for visible burnout to intervene is too late. Overtime exposure alone is the trigger.
 
 ---
 
@@ -132,7 +132,7 @@ Three secondary factors add texture but are not primary drivers:
 - **Job satisfaction:** Low satisfaction = 16% attrition vs 9% at the highest level. A real gradient, but satisfaction often reflects the primary drivers rather than causing departures independently.
 - **Training:** 0 sessions in the last year = 21% attrition — the highest non-OT risk flag outside of compensation. Employees who receive no training at all read it as a signal they are not worth investing in.
 
-> **Business implication:** Distance and satisfaction are hard to intervene on directly. Zero training, however, is a correctable behavior — and it functions as an early warning flag for disengaged employees who are already at elevated risk.
+- **Business implication:** Distance and satisfaction are hard to intervene on directly. Zero training, however, is a correctable behavior — and it functions as an early warning flag for disengaged employees who are already at elevated risk.
 
 ---
 
@@ -161,7 +161,7 @@ Time in current role shows the same pattern:
 
 Manager stability compounds this further. Employees with less than one year under their current manager leave at **25%**. The combination of a new role, a new manager, and no clear progression path creates a situation where employees have no institutional reason to stay.
 
-> **Business implication:** Career stagnation is not a long-tenure problem. It starts in year one. Employees who cannot see a path forward in their first two years make the decision to leave before anyone notices they are at risk.
+- **Business implication:** Career stagnation is not a long-tenure problem. It starts in year one. Employees who cannot see a path forward in their first two years make the decision to leave before anyone notices they are at risk.
 
 ---
 
@@ -169,7 +169,7 @@ Manager stability compounds this further. Employees with less than one year unde
 
 The three drivers above are not independent. When they combine, the risk is not additive — it compounds.
 
-<!-- ![Tenure × OT Compound Chart](images/tenure_ot_compound.png) -->
+<!-- ![Tenure × OT Compound Chart](images/tenure_x_ot.png) -->
 
 | Segment | Attrition Rate | Share of Departures | n |
 |---------|----------------|---------------------|---|
@@ -201,7 +201,7 @@ Each recommendation maps directly to one of the three structural drivers.
 
 ### 1 — Cap Overtime for Employees in Their First 12 Months
 
-> *Targets: Tenure × OT finding. Est. impact: ~40 fewer departures/year if OT coverage drops from 28% → 15% of staff.*
+- *Targets: Tenure × OT finding. Est. impact: ~40 fewer departures/year if OT coverage drops from 28% → 15% of staff.*
 
 New hires on overtime leave at 55%. That rate does not require burnout to materialize — it applies even to employees who are not flagged as drained. Protecting the first year from unplanned overtime reduces the highest-rate segment in the dataset.
 
@@ -214,7 +214,7 @@ New hires on overtime leave at 55%. That rate does not require burnout to materi
 
 ### 2 — Raise Entry-Level Pay Floors
 
-> *Targets: Salary Q1 / Job Level 1. Est. impact: Q1 cohort generates ~55 departures/year at the current 27% rate.*
+- *Targets: Salary Q1 / Job Level 1. Est. impact: Q1 cohort generates ~55 departures/year at the current 27% rate.*
 
 The $2,463 median income gap between leavers and stayers is large enough to be a primary driver, not just a dissatisfaction signal. Closing that gap partially for the lowest-paid employees addresses the single clearest compensation signal in the data.
 
@@ -227,7 +227,7 @@ The $2,463 median income gap between leavers and stayers is large enough to be a
 
 ### 3 — Build a First-Year Retention Program
 
-> *Targets: Early tenure + manager tenure signal. Goal: move the 0–2yr attrition rate from 28% toward the 10% seen at 3–5 yrs.*
+- *Targets: Early tenure + manager tenure signal. Goal: move the 0–2yr attrition rate from 28% toward the 10% seen at 3–5 yrs.*
 
 The first two years are where Watson loses the most people, and it is the window where early intervention has the highest leverage. Structured touchpoints give the organization a chance to identify at-risk employees before they have already made the decision to leave.
 
